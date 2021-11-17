@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:rgb(235, 98, 6);
+    margin:50px;
+}
+
+
+
+.btn-alert {
+    display: flex;
+    color: white;
+    background-color: rgb(8, 104, 184);
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+
+}
+
+.btn-alert:hover {
+    background-color:orange;
+} 
+
+.blue-background {
+    background-color: blue;
+    }
+    
+.red-background {
+    background-color: red;
+    }
